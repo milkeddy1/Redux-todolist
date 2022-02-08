@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.todolist_container{
+    width: 600px;
+    height: 800px;
+    background-color: #D6D6AD;
+    border-radius:20px;
+    box-shadow: 10px 10px rgba(0, 3, 3, 0.171);
+}
